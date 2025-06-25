@@ -9,6 +9,7 @@ import { Outlet, useNavigate } from 'react-router'
 import Footer from '../component/Footer/Footer';
 
 const provider = new GoogleAuthProvider();
+
 export const vlalueContext=createContext()
 const a=10
 

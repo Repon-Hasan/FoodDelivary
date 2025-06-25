@@ -50,6 +50,8 @@ if (!/[A-Z]/.test(password)) {
 	signIngoogle();
    }
 
+
+   
   return (
 <div className="w-full md:mt-16 mt-4 mx-auto max-w-md p-4 rounded-md shadow sm:p-8 dark:bg-gray-50 dark:text-gray-800">
 	<h2 className="mb-3 text-3xl font-semibold text-center">Signup to your account</h2>
